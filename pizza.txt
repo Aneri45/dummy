@@ -1,4 +1,4 @@
-Route _ pizza
+Route - pizza
 
 1. Go toRestuarant
 2. order pizza
